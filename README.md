@@ -54,7 +54,8 @@ The page uses multiple CSS files to style different sections:
 - **sidebar.css:** Styles for the sidebar navigation.
 
 ## How to Use
-
+1. Visit: https://yousefmoussa.github.io/MyYouTubeWebsite/
+or
 1. **Clone the Repository:** Clone the project repository to your local machine.
 2. **Open index.html:** Open the `index.html` file in your web browser to view the YouTube clone homepage.
 3. **Explore the Features:** Navigate through the header, sidebar, and video previews to experience the design.
