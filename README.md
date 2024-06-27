@@ -1,6 +1,6 @@
 # Creating-YouTube.com
 - This is practice using HTML, CSS and JS to create YouTube.com
-- youtube.html file is the index.html file
+- The youtube.html file is the index.html file
 
 ## Overview
 
